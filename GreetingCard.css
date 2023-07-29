@@ -1,0 +1,21 @@
+/* styles.css (or any other CSS file you use) */
+
+.greeting-card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  text-align: center;
+  width: 200px;
+}
+
+.greeting-card h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.greeting-card p {
+  font-size: 16px;
+}
